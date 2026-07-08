@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tarun Singh Bisht 👋
 
-<!--
-**phdtarun999-rgb/phdtarun999-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at GBPIET
+💻 Backend Developer (Learning Node.js & Express)
+🌱 Currently learning Backend Development, REST APIs, and SQL
+📫 Connect with me on LinkedIn
 
-Here are some ideas to get you started:
+## Tech Stack
+- C++
+- Python
+- JavaScript
+- HTML & CSS
+- React
+- Node.js
+- Express.js
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build 10+ full-stack projects
+- Solve DSA problems daily
+- Contribute to open source
+- Get a Software Development Internship
